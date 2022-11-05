@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1667674732 source:/home/oia/Downloads/Projects Codeblocks/Assignment4pt2/main.cpp
+	<iostream>
+	"hashLinkedList.cpp"
+	"Employee.cpp"
+	"DynamicHashtable.cpp"
+
+1667675002 /home/oia/Downloads/Projects Codeblocks/Assignment4pt2/hashLinkedList.h
+	"Employee.h"
+	<iostream>
+	<string.h>
+
+1667675092 /home/oia/Downloads/Projects Codeblocks/Assignment4pt2/hashLinkedList.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<cstdio>
+	"hashLinkedList.h"
+	"Employee.h"
+
+1667603476 /home/oia/Downloads/Projects Codeblocks/Assignment4pt2/Employee.cpp
+	"Employee.h"
+
+1667603237 /home/oia/Downloads/Projects Codeblocks/Assignment4pt2/Employee.h
+
+1667675107 /home/oia/Downloads/Projects Codeblocks/Assignment4pt2/DynamicHashtable.cpp
+	"DynamicHashtable.h"
+	<iostream>
+
+1667675118 /home/oia/Downloads/Projects Codeblocks/Assignment4pt2/DynamicHashtable.h
+	"Employee.h"
+
