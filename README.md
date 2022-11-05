@@ -1,4 +1,4 @@
-# Assignment4
+# Assignment4 Report
 
 1. Print both hash functions and provide screenshots in the report.
 
